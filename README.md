@@ -12,3 +12,7 @@ cargo build
 
 # How to run:
 cargo run
+
+# Use module and funcions
+module_name::function_name
+module_name::module_name::function_name
