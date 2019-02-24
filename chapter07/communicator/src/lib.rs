@@ -1,11 +1,4 @@
-mod network {
-	fn connect(){
-	}
-	mod client {
-		fn connect(){
-		}
-	}
-}
+mod client;
 
 
 #[cfg(test)]
