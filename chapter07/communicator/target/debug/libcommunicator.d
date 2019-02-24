@@ -1,0 +1,1 @@
+/Users/mavro/Downloads/Projects/Rust/rust-programming-lang/chapter07/communicator/target/debug/libcommunicator.rlib: /Users/mavro/Downloads/Projects/Rust/rust-programming-lang/chapter07/communicator/src/lib.rs
