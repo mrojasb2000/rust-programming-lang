@@ -13,6 +13,9 @@ cargo build
 # How to run:
 cargo run
 
+# How to run Unit Test
+cargo test
+
 # Use module and funcions
 module_name::function_name
 module_name::module_name::function_name
