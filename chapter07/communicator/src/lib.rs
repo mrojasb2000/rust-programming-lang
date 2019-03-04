@@ -10,6 +10,14 @@ pub mod a {
 	}
 }
 
+pub enum TrafficLight {
+	Red,
+	Yellow,
+	Green,
+}
+
+
+
 #[cfg(test)]
 mod tests {
     #[test]
