@@ -3,8 +3,9 @@ extern crate communicator;
 //use communicator::a::series::of;
 use communicator::a::series::of::nested_modules;
 
-use communicator::TrafficLight::{Red, Yellow};
+//use communicator::TrafficLight::{Red, Yellow};
 
+use communicator::TrafficLight::*;
 
 fn main() {
     communicator::client::connect();
