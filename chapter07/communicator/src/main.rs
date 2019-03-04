@@ -1,7 +1,8 @@
 extern crate communicator;
 
 //use communicator::a::series::of;
-use communicator::a::series::of::nested_modules;
+//use communicator::a::series::of::nested_modules;
+use communicator::a::series::of::*;
 
 //use communicator::TrafficLight::{Red, Yellow};
 
